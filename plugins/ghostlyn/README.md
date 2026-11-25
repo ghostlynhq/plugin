@@ -10,9 +10,8 @@ you mention Ghostlyn by name.
 
 ## Use it
 
-1. Install the plugin, then open its Connectors tab and connect Ghostlyn. In
-   Claude Code, run
-   `/plugin install ghostlyn --marketplace ghostlynhq/claude-plugin`.
+1. Add the plugin, then connect Ghostlyn under Connectors on its page. In Claude
+   Code, run `/plugin install ghostlyn --marketplace ghostlynhq/claude-plugin`.
 2. Sign in with your Ghostlyn account and approve the permissions it asks for.
 3. Ask Claude about your company, its customers or its decisions, with no
    mention of Ghostlyn. Claude searches your team's knowledge and cites the
@@ -29,4 +28,5 @@ text of anything you agree to save. Ghostlyn returns the matching files and the
 agent's reply. Nothing is sent about a conversation that never touches your
 team. Each call runs as you, with the permissions your Ghostlyn account has.
 
-Learn more at https://www.ghostlyn.com.
+Learn more at https://www.ghostlyn.com and read the privacy policy at
+https://www.ghostlyn.com/privacy.

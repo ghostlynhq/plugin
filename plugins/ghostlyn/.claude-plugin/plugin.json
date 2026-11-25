@@ -1,11 +1,12 @@
 {
   "name": "ghostlyn",
   "displayName": "Ghostlyn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Connect Claude to your team's shared knowledge and agent in Ghostlyn, and tell Claude when to ask them.",
   "author": {
     "name": "Ghostlyn",
     "url": "https://www.ghostlyn.com"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "privacyPolicyUrl": "https://www.ghostlyn.com/privacy"
 }
