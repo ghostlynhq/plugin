@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ghostlyn": {
+      "type": "http",
+      "url": "https://www.ghostlyn.com/mcp"
+    }
+  }
+}
