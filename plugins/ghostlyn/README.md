@@ -19,6 +19,10 @@ name.
      `/plugin install ghostlyn@ghostlyn`
    - In Codex, run `codex plugin marketplace add ghostlynhq/plugin`, then
      `codex plugin add ghostlyn@ghostlyn`
+   - In Copilot, run `copilot plugin marketplace add ghostlynhq/plugin`, then
+     `copilot plugin install ghostlyn@ghostlyn`
+   - In Antigravity, run
+     `agy plugin install https://github.com/ghostlynhq/plugin`
 2. Sign in with your Ghostlyn account and approve the permissions it asks for.
 3. Ask about your company, its customers or its decisions, with no mention of
    Ghostlyn. The assistant searches your team's knowledge and cites the files it

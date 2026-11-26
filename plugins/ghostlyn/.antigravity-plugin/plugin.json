@@ -2,6 +2,6 @@
   "$schema": "https://antigravity.google/schemas/v1/plugin.json",
   "name": "ghostlyn",
   "displayName": "Ghostlyn",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Connect your assistant to your team's shared knowledge and agent in Ghostlyn, and tell it when to ask them."
 }
