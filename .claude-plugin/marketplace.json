@@ -3,12 +3,12 @@
   "owner": {
     "name": "Ghostlyn"
   },
-  "description": "Plugins that connect Claude to your team's shared agent in Ghostlyn.",
+  "description": "Plugins that connect your assistant to your team's shared agent in Ghostlyn.",
   "plugins": [
     {
       "name": "ghostlyn",
       "source": "./plugins/ghostlyn",
-      "description": "Connect Claude to your team's shared knowledge and agent in Ghostlyn."
+      "description": "Connect your assistant to your team's shared knowledge and agent in Ghostlyn."
     }
   ]
 }

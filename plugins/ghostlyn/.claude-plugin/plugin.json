@@ -1,8 +1,8 @@
 {
   "name": "ghostlyn",
   "displayName": "Ghostlyn",
-  "version": "1.1.0",
-  "description": "Connect Claude to your team's shared knowledge and agent in Ghostlyn, and tell Claude when to ask them.",
+  "version": "1.1.1",
+  "description": "Connect your assistant to your team's shared knowledge and agent in Ghostlyn, and tell it when to ask them.",
   "author": {
     "name": "Ghostlyn",
     "url": "https://www.ghostlyn.com"
